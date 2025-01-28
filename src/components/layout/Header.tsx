@@ -53,7 +53,7 @@ export function Header() {
 
             <button className="w-8 h-8 rounded-full overflow-hidden">
               <img
-                src="C:/Users/Shivanshu/OneDrive/Desktop/APP/project/src/utils/bird.png" 
+                src="JATAYU\dist\assets\jatayu_logo.png" 
                 alt="User avatar"
                 className="w-full h-full object-cover"
               />
