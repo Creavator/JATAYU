@@ -2,10 +2,10 @@ import React from 'react';
 
 export function Logo() {
   return (
-    <div className="flex items-center gap-3">
-      <div className="w-12 h-12">
+    <div className="flex items-center gap-3 ">
+      <div className="w-32 h-32">
         <img 
-          src="C:/Users/Shivanshu/OneDrive/Desktop/APP/project/src/utils/bird.png" 
+          src="dist\assets\jatayu_logo.png" 
           alt="Bird Logo" 
           className="w-full h-full object-cover"
         />

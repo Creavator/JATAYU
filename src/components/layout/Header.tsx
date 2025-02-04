@@ -53,8 +53,8 @@ export function Header() {
 
             <button className="w-8 h-8 rounded-full overflow-hidden">
               <img
-                src="JATAYU\dist\assets\jatayu_logo.png" 
-                alt="User avatar"
+                src="" 
+                alt="avatar"
                 className="w-full h-full object-cover"
               />
             </button>
